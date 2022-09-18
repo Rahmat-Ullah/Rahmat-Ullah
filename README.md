@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rahmat-Ullah
-- 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... Web development
+- 👋 Hi, I’m Rahmat-Ullah
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Full stack Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
